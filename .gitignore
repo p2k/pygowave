@@ -10,3 +10,4 @@ cache/*
 */ebin/*.script
 */ebin/*.rel
 deps.mk
+pygowave_client/tmp

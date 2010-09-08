@@ -1,0 +1,17 @@
+ 
+PyGoWave - The Open Source Python Wave Client/Server solution
+Copyright (C) 2010 Patrick "p2k" Schneider <patrick.schneider@wavexperts.de>
+
+This software contains code derived from the Google Wave APIs
+and documentation by Google Inc.
+
+The client part of this software makes use of SproutCore,
+Copyright 2010 Sprout Systems Inc. & Contributors
+
+The server part of this software is driven by Twisted,
+Copyright 2001-2004 Twisted Matrix Laboratories
+
+This software includes parts of the Oxygen iconset which is released under the
+Creative Commons Attribution-NonCommercial-NoDerivs 2.5 License.
+http://www.oxygen-icons.org/
+
